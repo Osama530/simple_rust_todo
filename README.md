@@ -19,8 +19,8 @@
 
 List all todo items
 
-* [x]cargo run listall
+* [x] cargo run listall
 
 basic_rust_todo add "new_task"
 
-* [x]cargo run add "new task"
+* [x] cargo run add "new task"
