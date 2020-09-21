@@ -8,6 +8,9 @@
     * [x] put all items into a vector
     * [x] print the items to the screen
 * [ ] As a doer, i will be able to add items
+    * [x] open a file with write and append access
+    * [x] write a new task to the file with carrige return
+    * [x] return a file with new task and print on screen
 * [ ] As a doer, i will be able to mark a todo item as compeleted
 * [ ] As a doer, i will be able to delete a todo item
 
