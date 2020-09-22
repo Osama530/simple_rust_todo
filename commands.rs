@@ -1,3 +1,6 @@
+mod lib;
+pub use crate::lib;
+
 pub enum Command {
     ListAll,
     Add(String),

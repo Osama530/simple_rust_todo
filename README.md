@@ -12,6 +12,7 @@
     * [x] write a new task to the file with carrige return
     * [x] return a file with new task and print on screen
 * [ ] As a doer, i will be able to mark a todo item as compeleted
+    * [ ] encapsulating our todos into struct
 * [ ] As a doer, i will be able to delete a todo item
 
 // this demands on how thwe application works, we wont need this if we persist to disk and quit after every command
